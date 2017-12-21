@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": ["Serge I. Zolotukhin"]
+	},
+
+	"timelinestats-users-total": "დარეგისტრირებული მომხმარებლები",
+	"timelinestats-users-active": "აქტიური მომხმარებლები",
+	"timelinestats-pages-total": "სტატია",
+	"timelinestats-images-total": "ატვირთული ფაილები",
+	"timelinestats-edits-total": "გვერდის შესწორებები",
+
+	"timelinestats": "სტატისტიკა"
+}

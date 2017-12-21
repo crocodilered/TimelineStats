@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": ["Serge I. Zolotukhin"]
+	},
+
+	"timelinestats-users-total": "Зареєстрованих користувачів",
+	"timelinestats-users-active": "Активні користувачі",
+	"timelinestats-pages-total": "Статей",
+	"timelinestats-images-total": "Завантажено файлів",
+	"timelinestats-edits-total": "Кількість редагувань",
+
+	"timelinestats": "Статистика"
+}
